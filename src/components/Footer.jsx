@@ -12,12 +12,12 @@ const Footer = () => {
             <FiHeart className="mx-1 text-red-500" />
             <span>by</span>
             <a
-              href="https://github.com/danielace1"
+              href="https://github.com/aadityajoshicsai28-cell"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1 font-medium text-indigo-600 hover:text-indigo-800 transition-colors mx-1 hover:underline"
             >
-              Sudharsan
+              Aaditya Joshi
               <FiGithub size={14} />
             </a>
           </div>

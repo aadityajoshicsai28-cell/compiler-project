@@ -62,7 +62,7 @@ const CompilerVisualizer = () => {
             </Link>
 
             <a
-              href="https://github.com/danielace1/compiler-visualizer"
+              href="https://github.com/aadityajoshicsai28-cell/compiler-project"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:flex items-center bg-gray-800 text-white rounded-xl p-3 shadow-lg border border-gray-700 hover:bg-gray-700 transition-colors"
