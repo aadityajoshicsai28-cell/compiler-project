@@ -104,16 +104,7 @@ src/
 - Generated assembly is illustrative and is not targeted to a specific real processor.
 - Groq mode requires a valid API key and network access.
 
-## Contributing
 
-1. Fork the repository.
-2. Create a branch: `git checkout -b feature/your-change`.
-3. Install dependencies with `npm install`.
-4. Make and test your changes with `npm run lint` and `npm run build`.
-5. Commit and push your branch.
-6. Open a pull request with a clear description of the change.
-
-Bug reports and feature requests are welcome through the [issue tracker](https://github.com/aadityajoshicsai28-cell/compiler-project/issues).
 
 ## License
 
