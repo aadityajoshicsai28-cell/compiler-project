@@ -2,7 +2,7 @@
 
 An interactive React application for exploring how source code moves through a compiler pipeline. Enter a short expression, run an analysis, and inspect the tokens, syntax tree, semantic information, intermediate representation, optimizations, and generated assembly-style instructions side by side.
 
-**Live demo:** [compiler-visualizer-seven.vercel.app](https://compiler-project.vercel.app/)
+**Live demo:** [compiler-project.vercel.app](https://compiler-project.vercel.app/)
 
 ## What It Does
 
